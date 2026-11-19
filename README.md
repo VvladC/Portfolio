@@ -15,10 +15,11 @@ I'm a fourth-year Computer Science student and an e-commerce developer working o
 - **CoolPi** — [Arduino smart cooling project](https://github.com/VvladC/Laptop-humidity-and-temperature-guard)
 - **ESP32 Snake** — [Source repository](https://github.com/VvladC/Arduino-Snake)
 - **ESP32 Match the Shape** — [Source repository](https://github.com/VvladC/Match-The-Shape_Arduino)
+- **Cherry Blossom Low-Poly Scene** — Personal Blender learning exercise in stylized environment modeling, composition, and lighting.
 
 ## Tools and skills
 
-Python, C, C#, Java, HTML, CSS, JavaScript, SQL/MySQL, Git/GitHub, AWS, Linux/WSL, Unity, Android Studio, Arduino/ESP32, e-commerce product data processing and debugging.
+Python, C, C#, Java, HTML, CSS, JavaScript, SQL/MySQL, Git/GitHub, AWS, Linux/WSL, Unity, Blender (learning), Android Studio, Arduino/ESP32, e-commerce product data processing and debugging.
 
 ## Contact
 
